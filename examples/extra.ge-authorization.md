@@ -22,7 +22,7 @@ Focus on:
 Feature description:
 Users can authorize on extra.ge using multiple methods:
 - Email: must be in a valid email format (e.g., user@example.com)
-- Phone: must be a valid Georgian phone number starting with +995 or 0, followed by 8 digits
+- Phone: must be a valid Georgian phone number starting with +995, followed by 9 digits, or starting with 5 containing 9 digits
 - Gmail and Facebook: users can sign in using OAuth, handling success and failure cases
 
 Output format:
